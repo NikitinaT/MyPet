@@ -13,7 +13,7 @@ public class ControlCenter {
      * Pet picture output
      */
     public static void petPicture() throws Exception {
-        System.out.println(" /\\_/\\");
+        System.out.println555(" /\\_/\\");
         System.out.println("( o.o )");
         System.out.println(" > ^ <");
     }
